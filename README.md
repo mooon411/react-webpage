@@ -2,11 +2,12 @@
 리액트를 사용한 웹사이트
 
 ## 리액트란?
-리액트는 사용자 인터페이스를 개발하기 위한 자바스크립트 라이브러리로, 화면 업데이트를 효율적으로 처리하여 웹 애플리케이션의 성능을 향상시키는데 사용됩니다.
+리액트는 사용자 인터페이스를 개발하기 위한 자바스크립트 라이브러리로,  
+화면 업데이트를 효율적으로 처리하여 웹 애플리케이션의 성능을 향상시키는데 사용됩니다.
 
 
 ## 설치
- npx create-react-app .
+ npx create-react-app .  
  npx create-react-app 폴더이름
 
 ## 디자인
@@ -14,6 +15,6 @@
 [피그마 디자인](https://www.figma.com/file/WYtMi3rd3zcRYengdT123h/Untitled?type=design&node-id=8%3A2&mode=design&t=wYVAqyWjY5EVUQJf-1)
 
 ## 작업 순서
--필요 없는 파일 삭제
--rafce : 기본 문법 나오기 --> 확장 프로그램 ES7 설치
+-필요 없는 파일 삭제  
+-rafce : 기본 문법 나오기 --> 확장 프로그램 ES7 설치  
 -npm start : 리액트 시작
