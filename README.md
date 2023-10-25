@@ -11,9 +11,7 @@
 
 ## 디자인
 디자인은 웹상에 공유되어있는 디자인을 참고하였습니다.
-[피그마 디자인](
-
-)
+[피그마 디자인](https://www.figma.com/file/WYtMi3rd3zcRYengdT123h/Untitled?type=design&node-id=8%3A2&mode=design&t=wYVAqyWjY5EVUQJf-1)
 
 ## 작업 순서
 -필요 없는 파일 삭제
