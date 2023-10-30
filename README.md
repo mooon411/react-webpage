@@ -3,8 +3,7 @@
 컴퍼넌트 및 props를 이용하여 사이트를 구성했습니다.
 
 ## 미리보기
-https://moonpage2024.netlify.app/
-
+https://moonpage-react.netlify.app/
 
 ## 리액트란?
 리액트는 사용자 인터페이스를 개발하기 위한 자바스크립트 라이브러리로,  
